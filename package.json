@@ -1,0 +1,21 @@
+{
+  "name": "cupcake",
+  "description": "A new front-end framework that will change the odds",
+  "version": "0.1.0",
+  "homepage": "http://getcupcake.com",
+  "author": "Hady Fayed (http://hadyfayed.com)",
+  "repository": "hadyfayed/cupcake",
+  "bugs": {
+    "url": "https://github.com/hadyfayed/cupcake/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "cupcake"
+  ]
+}
